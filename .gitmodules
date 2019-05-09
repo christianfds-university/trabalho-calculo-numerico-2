@@ -1,0 +1,15 @@
+[submodule "calculo-numerico-gauss-seidel"]
+	path = calculo-numerico-gauss-seidel
+	url = https://github.com/christianfds/calculo-numerico-gauss-seidel.git
+[submodule "calculo-numerico-lu"]
+	path = calculo-numerico-lu
+	url = https://github.com/christianfds/calculo-numerico-lu.git
+[submodule "calculo-numerico-jacobi"]
+	path = calculo-numerico-jacobi
+	url = https://github.com/christianfds/calculo-numerico-jacobi.git
+[submodule "calculo-numerico-cholesky"]
+	path = calculo-numerico-cholesky
+	url = https://github.com/christianfds/calculo-numerico-cholesky.git
+[submodule "calculo-numerico-gauss"]
+	path = calculo-numerico-gauss
+	url = https://github.com/christianfds/calculo-numerico-gauss.git
